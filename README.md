@@ -1,4 +1,4 @@
 # parse-gpt
 
-parsing gpt .dd file & printing some properties...<br>
-+) place your .dd file on '.'
+parsing gpt <i>.dd<i> file & printing some properties...<br>
++) place your <i>.dd<i> file on '.'
